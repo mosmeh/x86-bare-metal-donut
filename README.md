@@ -1,5 +1,7 @@
 # x86-bare-metal-donut
 
+[![build](https://github.com/mosmeh/x86-bare-metal-donut/workflows/build/badge.svg)](https://github.com/mosmeh/x86-bare-metal-donut/actions)
+
 Andy Sloane's [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html) ported to x86 bare-metal environments
 
 ![](demo.gif)
