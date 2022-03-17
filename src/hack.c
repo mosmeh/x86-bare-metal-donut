@@ -1,7 +1,7 @@
 #include "hack.h"
 
 #define COLUMNS 80
-#define ROWS 24
+#define ROWS 25
 
 static volatile unsigned char* video = (unsigned char*)0xb8000;
 static int pox_x, pos_y;
